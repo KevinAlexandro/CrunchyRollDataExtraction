@@ -365,4 +365,4 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,windows,linux,macos
 
 # extra files added to gitignore because of PyCharm
-.idea/vcs.xml
+.idea/*
